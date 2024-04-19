@@ -2,7 +2,7 @@
 
 using namespace std;
 
-void numbersInRow(int &n){
+void numbersInRow(int n){
 if(n == 1) return;
     if(n % 2==0){
         n =n * 0.5;

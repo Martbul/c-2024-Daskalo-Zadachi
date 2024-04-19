@@ -7,6 +7,7 @@ string fromDecimalToBinary(int a, string b="")
     {
 
         cout << b;
+         cin.getline (y_name, MAX_NAME_LEN);
         return "0";
     }
     a = a /2;

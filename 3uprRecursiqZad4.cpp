@@ -3,15 +3,7 @@
 using namespace std;
 
 bool evklidPrime(int a, int b){
-    string b = '';
-if(a == 0) return;
-a= a /2;
-if(a % 2 ==0) {
 
-    b+ a;
-}else{
-    b + a
-}
 
 
 
@@ -19,9 +11,6 @@ if(a % 2 ==0) {
 
 int main(){
 
-int n;
-cin >> n;
-evklidPrime(n);
 }
 
 

@@ -1,0 +1,3 @@
+name: plamen
+class: 6
+grades: 3 4 4 5 
