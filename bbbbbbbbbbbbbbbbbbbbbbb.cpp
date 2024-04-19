@@ -20,7 +20,10 @@ while(getline(MyReadFile, placeholder)){
         }
         }
 }
+
     MyReadFile.close();
+     ofstream MyFile("filename.txt");
+
 
 }
 
